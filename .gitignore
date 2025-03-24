@@ -1,0 +1,8 @@
+./main.py
+/_pycache_/
+/chat_history.db
+/data_test.csv
+/data_train.csv
+/model-train.ipynb
+/roberta.ipynb
+/app.py
